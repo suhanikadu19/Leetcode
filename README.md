@@ -7,6 +7,7 @@ My LeetCode journey- solving codding problems and strengthening my Data Structur
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suhanikadu19/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suhanikadu19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,8 @@ My LeetCode journey- solving codding problems and strengthening my Data Structur
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suhanikadu19/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suhanikadu19/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
