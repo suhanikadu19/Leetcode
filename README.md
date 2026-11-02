@@ -7,6 +7,7 @@ My LeetCode journey- solving codding problems and strengthening my Data Structur
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikadu19/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikadu19/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/suhanikadu19/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suhanikadu19/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suhanikadu19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -38,6 +39,7 @@ My LeetCode journey- solving codding problems and strengthening my Data Structur
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikadu19/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suhanikadu19/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suhanikadu19/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suhanikadu19/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -71,6 +73,7 @@ My LeetCode journey- solving codding problems and strengthening my Data Structur
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikadu19/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikadu19/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suhanikadu19/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/suhanikadu19/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suhanikadu19/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
